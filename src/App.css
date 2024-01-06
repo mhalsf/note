@@ -1,0 +1,33 @@
+html body {
+  place-items: unset;
+  font-family: 'Jost', sans-serif;
+}
+#root {
+  margin: 0;
+  width: 100%;
+  max-width: 100%;
+  padding: 0;
+  text-align: center;
+}
+header{
+  background: #BFCFE7;
+}
+header ul{
+  list-style: none;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 0 2rem;
+}
+header ul li a{
+  padding: 15px 20px;
+  display: inline-block;
+  color: #3D3B40;
+  font-weight: 500;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+header ul li a:hover{
+  background: #525CEB;
+  color: #E5E1DA;
+}
