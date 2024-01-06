@@ -1,6 +1,7 @@
 {
   "name": "note",
   "private": true,
+  "homepage": "https://mhalsf.github.io/note/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
